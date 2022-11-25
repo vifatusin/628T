@@ -1,0 +1,25 @@
+.chartContainer {
+    width:800px;
+}
+
+.source{
+    font-family: helvetica, sans-serif;
+    font-size: .75em;
+    margin-left:15px;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-style: italic;
+}
+
+.subTitle {
+  width: 800px;
+}
+
+.information{
+  font-family: arial;
+  font-size: 1em;
+  margin: 0 auto;
+  margin-top: 2rem;
+  text-align: center;
+}
